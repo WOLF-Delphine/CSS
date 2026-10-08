@@ -1,0 +1,29 @@
+/*changer l'épaisseur du texte par défault en normal*/
+h2 {
+    font-weight:normal;
+}
+/* Ecrire les couleurs dans la couleur approprié*/
+#bleu {
+    color:#133458;
+}
+#jaune {
+    color:#FAF7BB;
+}
+#rose {
+    color:#F29191;
+}
+#orange {
+    color:#F2842F;
+}
+#rouge {
+    color:#B93636;
+}
+#vert {
+    color:#7D9C65;
+}
+/*Mettre les images en 200px * 200px*/
+img{
+    width: 200px;
+    height: 200px;
+    object-fit:contain;
+}
