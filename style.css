@@ -44,17 +44,13 @@ div{
     box-sizing: border-box;
     width: 240px;
     padding: 10px;
-    border: 5px solid black
+    border: 5px solid black;
 }
 .rosado{
     margin-left: 240px;
 }
-.naranja{
-    margin-left: 480px;
-}
+
+
 .rojo{
-    margin-left:720px ;
-}
-.verde{
-    margin-left:960px ;
+    margin-left:240px ;
 }
